@@ -97,11 +97,11 @@ Then open that IP in a browser (desktop or mobile):
 
 ---
 
-## 📸 Screenshot Examples (extras)
+## 📸 extras
 
 - 🕒 Main web page view  
-- 💬 Custom message display on matrix  
-- ⚙️ Device setup or 3D-printed enclosure  
+- 💬 Bread board test photo  
+- ⚙️ 3D-printed enclosure  
 
 ---
 
