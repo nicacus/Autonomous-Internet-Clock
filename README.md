@@ -97,9 +97,8 @@ Then open that IP in a browser (desktop or mobile):
 
 ---
 
-## 📸 Screenshot Examples
+## 📸 Screenshot Examples (extras)
 
-_Add your own photos or renders:_
 - 🕒 Main web page view  
 - 💬 Custom message display on matrix  
 - ⚙️ Device setup or 3D-printed enclosure  
